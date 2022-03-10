@@ -2,4 +2,4 @@
 
 A blog about science, programming and life.
 
-Check it out: [https://leo-baro.github.io/leobaro.github.io](https://leo-baro.github.io/leobaro.github.io/).
+Check it out: [https://leo-baro.github.io/blog](https://leo-baro.github.io/blog/).
