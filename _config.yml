@@ -54,10 +54,10 @@ defaults:
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
 
 
-#jekyll_analytics:
-#  GoogleAnalytics:
-#    id: G-ZD6F8ZH45N
-#    anonymizeIp: false
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-222564983-1
+    anonymizeIp: false
 
 
 
