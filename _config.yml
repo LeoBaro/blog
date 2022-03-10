@@ -38,7 +38,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-analytics
 
 collections_dir: all_collections
 collections:
@@ -53,12 +52,7 @@ defaults:
       permalink: /posts/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
 
-
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-222564983-1
-    anonymizeIp: false
-
+google_analytics: UA-222564983-1
 
 
 # Exclude from processing.
